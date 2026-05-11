@@ -15,7 +15,7 @@
 
 ## Overview
 
-DDNet targets **few-shot automatic modulation recognition (AMR)** under **varying SNR**. This repository provides a reference implementation built around a **BERT-style** encoder, **Data2Vec-style** pretraining objectives, and a **graph network** classification head for episodic meta-learning on the RadioML **RML201610A** dataset.
+DDNet targets **few-shot automatic modulation recognition (AMR)** under **varying SNR**. This repository provides a episodic meta-learning on the RadioML **RML201610A** dataset.
 
 > **Note:** This is a **partial** release. If something you need is missing, please open an issue.
 
